@@ -1,3 +1,5 @@
+def fizzbuzz (number)
+  
 require_relative './spec_helper.rb'
 
 # the below line has been added for lab simplicity, and is required for the test to check the appropriate file.
