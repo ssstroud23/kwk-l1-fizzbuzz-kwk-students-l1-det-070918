@@ -1,4 +1,4 @@
-def FizzBuzz(int)
+def fizzbuzz(int)
   if int % 3 == 0
     puts "Fizz"
   elsif int % 5 == 0
@@ -7,5 +7,3 @@ def FizzBuzz(int)
     puts "FizzBuzz"
   
 end
-
-FizzBuzz(25)
