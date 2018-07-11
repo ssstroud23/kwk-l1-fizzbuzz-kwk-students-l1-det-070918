@@ -1,4 +1,4 @@
-def fizzbuzz (number)
+def fizzbuzz(number)
   
 require_relative './spec_helper.rb'
 
