@@ -28,3 +28,4 @@ describe "fizzbuzz" do
   end
 end
 
+int(5)
